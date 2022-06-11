@@ -55,26 +55,26 @@ global.pdana = '081229393997'
 global.povo = '081229393997'
 global.pgopay = '081229393997'
 global.ppulsa = '085712420674'
-global.ppulsa2 = '081229393997'
+global.ppulsa2 = '088216004278'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281229393997'
 global.nomorown = '6281229393997'
-global.namebot = 'Kanna BOT'
+global.namebot = 'ZERO2 BOT'
 global.nameown = 'Zex - Sama'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['6281229393997'],
-  ['6285712420674'],
+  ['6288216004278'],
   ['18126338970'],
   ['6281229393997', 'LETTA ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [6281229393997] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 ƘZERO2 BOT あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ ƘZERO2 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 ƘZERO2 BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -176,7 +176,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\z\ze\rr\o\ch\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
