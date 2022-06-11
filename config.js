@@ -54,14 +54,14 @@ global.snh = 'https://nhentai.net/g/365296/'
 global.pdana = '081229393997'
 global.povo = '081229393997'
 global.pgopay = '081229393997'
-global.ppulsa = '085712420674'
+global.ppulsa = '081229393997'
 global.ppulsa2 = '088216004278'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281229393997'
 global.nomorown = '6281229393997'
-global.namebot = 'ZERO2 BOT'
+global.namebot = 'ZERO-chan BOT'
 global.nameown = 'Zex - Sama'
 
 
